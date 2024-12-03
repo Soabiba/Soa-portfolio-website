@@ -41,8 +41,8 @@ header p {
 }
 
 .resume-button {
-  background-color: #F0F7EE; 
-  color: #1B222C;
+  background-color: #9A6D38; 
+  color: #F0F7EE;
   padding: 10px 20px;
   margin-top: 20px ; 
   font-size: 18px;
@@ -52,11 +52,10 @@ header p {
   cursor: pointer;
   transition: background-color 0.3s;
   border: none;
-  font-weight: bold;
 }
 
 .resume-button:hover {
-  background-color: #9A6D38;
+  background-color: #CC3F0C;
 }
 
 
